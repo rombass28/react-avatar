@@ -1,0 +1,12 @@
+.Comment{
+    text-align: left;
+    margin: 20px;
+}
+
+.Comment div{
+    padding: 5px;
+}
+
+.author{
+    font-weight: bold;
+}
