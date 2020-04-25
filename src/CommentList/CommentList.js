@@ -10,15 +10,15 @@ export function CommentList(props) {
        />
 
         <Comment
-            author="Rafael Nadal"
-            date={new Date(3,6,1986).toString()}
-            content="He is the best tennis player"
+            author="Paul Scheuring"
+            date="Published on: 29/08/2005"
+            content="He wrote the television series Prison Break"
        />
 
         <Comment
-            author="Michael Jordan"
-            date={new Date(17,2,1963).toString()}
-            content="He is the best basketball player"
+            author="Carter Bays, Craig Thomas"
+            date="Published on: 19/09/2005"
+            content="They wrote the sitcom How I Met Your Mother"
        />
     </div>)
 }
